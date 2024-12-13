@@ -8,7 +8,7 @@ Este repositório contém o MVP de um sistema de **gestão de estoque**, criado 
 
 Neste repositório, você encontrará os seguintes materiais:
 
-- **Canvas-MVP.pdf**: Documento detalhando o MVP Canvas do projeto.
+- **Canvas-MVP.pdf**: Documento o MVP Canvas do projeto.
 - **Detalhamento.pdf**: Arquivo contendo as definições de Sprint e Backlog.
 - **Link para JIRA**: A timeline do projeto e as histórias da Sprint estão documentadas no JIRA.
 - **Diretório /imagens**: Contém wireframes e mockups criados no Figma.
